@@ -35,9 +35,9 @@ import random
 
 repeat_times = random.randint(1, 100)
 while(repeat_times>0):
-        print("orz-7")
-        print("orƶ7")
-        repeat_times-1
+    print("orz-7")
+    print("orƶ7")
+    repeat_times-1
 ```
 
 
