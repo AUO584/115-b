@@ -9,7 +9,7 @@
 
 *我的座右銘：好好活動 好好學習 好好遊戲 好好吃飯 好好休息 要過一個開心有趣 精神百倍的人生---龜仙人*
 
-我最喜歡的網站：[起點小說](https://www.qidian.com/)
+我最喜歡的網站：[YouTube](https://www.youtube.com/)
 
 ![你從桃園新竹](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrWhMtxuBfUE7MDXJmtgjyRTemXhLQIVDNtiO-MGD0JgxuUfjPAKEhVWA&s=10)
 
